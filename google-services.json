@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "712148768500",
+    "firebase_url": "https://time-for-you.firebaseio.com",
+    "project_id": "time-for-you",
+    "storage_bucket": "time-for-you.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712148768500:android:59288c1f574d4645a830a1",
+        "android_client_info": {
+          "package_name": "com.example.timeforyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712148768500-5rmuore0akkmj40g3n3q345aq09at4b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvzg3Fl8IpuwzIVrU1mYlUEchfDzt9lLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712148768500-5rmuore0akkmj40g3n3q345aq09at4b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
